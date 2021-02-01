@@ -70,9 +70,9 @@ float Minf(float val, float min)
 
 std::mutex gMutex;
 // Recommended Testing Resolution
-const unsigned int gWidth = 640, gHeight = 480;
+//const unsigned int gWidth = 640, gHeight = 480;
 // Recommended Production Resolution
-//const unsigned gWidth = 1920, gHeight = 1080;
+const unsigned gWidth = 1920, gHeight = 1080;
 
 //[comment]
 // This is the main trace function. It takes a ray as argument (defined by its origin
