@@ -1,0 +1,46 @@
+﻿  HeapManager.cpp
+D:\Uni\Low-Level\RayTracerFramework\RayTracerSmall\HeapManager.h(15,29): warning C4267: '+=': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\Uni\Low-Level\RayTracerFramework\RayTracerSmall\HeapManager.h(16,29): warning C4267: '-=': conversion from 'size_t' to 'unsigned int', possible loss of data
+  main.cpp
+D:\Uni\Low-Level\RayTracerFramework\RayTracerSmall\HeapManager.h(15,29): warning C4267: '+=': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\Uni\Low-Level\RayTracerFramework\RayTracerSmall\HeapManager.h(16,29): warning C4267: '-=': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\Uni\Low-Level\RayTracerFramework\RayTracerSmall\main.cpp(44,1): warning C4005: 'INFINITY': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_math.h(90): message : see previous definition of 'INFINITY'
+D:\Uni\Low-Level\RayTracerFramework\RayTracerSmall\main.cpp(192,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Uni\Low-Level\RayTracerFramework\RayTracerSmall\main.cpp(199,60): warning C4305: 'argument': truncation from 'double' to 'const float'
+D:\Uni\Low-Level\RayTracerFramework\RayTracerSmall\main.cpp(209,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Uni\Low-Level\RayTracerFramework\RayTracerSmall\main.cpp(267,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Uni\Low-Level\RayTracerFramework\RayTracerSmall\main.cpp(274,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Uni\Low-Level\RayTracerFramework\RayTracerSmall\main.cpp(275,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Uni\Low-Level\RayTracerFramework\RayTracerSmall\main.cpp(329,19): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Uni\Low-Level\RayTracerFramework\RayTracerSmall\main.cpp(338,18): warning C4244: 'initializing': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+D:\Uni\Low-Level\RayTracerFramework\RayTracerSmall\main.cpp(370,64): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\Uni\Low-Level\RayTracerFramework\RayTracerSmall\main.cpp(371,55): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\Uni\Low-Level\RayTracerFramework\RayTracerSmall\main.cpp(372,56): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\Uni\Low-Level\RayTracerFramework\RayTracerSmall\main.cpp(373,55): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\Uni\Low-Level\RayTracerFramework\RayTracerSmall\main.cpp(443,26): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 256 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  RayTracerSmall.vcxproj -> D:\Uni\Low-Level\RayTracerFramework\x64\Release\RayTracerSmall.exe

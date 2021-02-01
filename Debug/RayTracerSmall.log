@@ -1,0 +1,39 @@
+﻿  main.cpp
+D:\Uni\Low-Level\RayTracerFramework\RayTracerSmall\main.cpp(44,1): warning C4005: 'INFINITY': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_math.h(90): message : see previous definition of 'INFINITY'
+D:\Uni\Low-Level\RayTracerFramework\RayTracerSmall\main.cpp(192,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Uni\Low-Level\RayTracerFramework\RayTracerSmall\main.cpp(199,60): warning C4305: 'argument': truncation from 'double' to 'const float'
+D:\Uni\Low-Level\RayTracerFramework\RayTracerSmall\main.cpp(209,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Uni\Low-Level\RayTracerFramework\RayTracerSmall\main.cpp(280,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Uni\Low-Level\RayTracerFramework\RayTracerSmall\main.cpp(286,60): warning C4305: 'argument': truncation from 'double' to 'const float'
+D:\Uni\Low-Level\RayTracerFramework\RayTracerSmall\main.cpp(295,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Uni\Low-Level\RayTracerFramework\RayTracerSmall\main.cpp(348,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Uni\Low-Level\RayTracerFramework\RayTracerSmall\main.cpp(355,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Uni\Low-Level\RayTracerFramework\RayTracerSmall\main.cpp(356,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Uni\Low-Level\RayTracerFramework\RayTracerSmall\main.cpp(410,19): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Uni\Low-Level\RayTracerFramework\RayTracerSmall\main.cpp(419,18): warning C4244: 'initializing': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+D:\Uni\Low-Level\RayTracerFramework\RayTracerSmall\main.cpp(451,64): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\Uni\Low-Level\RayTracerFramework\RayTracerSmall\main.cpp(452,55): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\Uni\Low-Level\RayTracerFramework\RayTracerSmall\main.cpp(453,56): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+D:\Uni\Low-Level\RayTracerFramework\RayTracerSmall\main.cpp(454,55): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+  RayTracerSmall.vcxproj -> D:\Uni\Low-Level\RayTracerFramework\Debug\RayTracerSmall.exe

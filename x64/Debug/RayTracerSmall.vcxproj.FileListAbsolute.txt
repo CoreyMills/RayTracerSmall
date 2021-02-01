@@ -1,0 +1,2 @@
+D:\Uni\Low-Level\RayTracerFramework\RayTracerSmall\x64\Debug\RayTracerSmall.exe
+D:\Uni\Low-Level\RayTracerFramework\RayTracerSmall\x64\Debug\RayTracerSmall.pdb
